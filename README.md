@@ -1,2 +1,2 @@
 # hello-world
-just another repositry
+Hi, I am Oliver_Fan,A sutudent from Singapore Institue of Management
